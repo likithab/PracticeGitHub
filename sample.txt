@@ -1,1 +1,2 @@
 i am in child-2 branch
+adding a ne line
